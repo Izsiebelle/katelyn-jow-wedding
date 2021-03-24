@@ -5,3 +5,11 @@
 .middle {
     text-align: center;
 }
+
+#itinerary img {
+    width: 50%;
+}
+
+.size-img {
+    width: 70%;
+}
