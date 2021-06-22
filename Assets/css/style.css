@@ -10,6 +10,16 @@
     width: 50%;
 }
 
+.itinerary-title {
+    font-family: 'Anonymous Pro', monospace;
+    color: #000080;
+}
+
+.gift-title {
+    font-family: 'Anonymous Pro', monospace;
+    color: #000080;
+}
+
 .size-img {
     width: 70%;
 }
